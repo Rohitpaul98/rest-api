@@ -1,0 +1,9 @@
+# dependencies
+node_modules
+assets
+#/config/default.json
+# IDE - VSCode
+.vscode
+
+/logs/*
+node_modules
